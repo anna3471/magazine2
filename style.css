@@ -8,6 +8,8 @@ header {
     padding: ;
     margin-bottom: 20px;
     display: flex;
+    align-items: center;
+
 }
 
 .button {
